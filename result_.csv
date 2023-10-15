@@ -1,0 +1,101 @@
+index,actual,predict,target
+0,average temperature in miami in february,february me miami me average temperature <EOS>,february me miami me average temperature
+1,delete my alarm for friday afternoon,friday dopahar ke liye mera alarm delete kare <EOS>,friday dopahar ke liye mera alarm delete kare
+2,i want to hear sunny 100 on iheartradio,mai iheartradio par sunny 100 sunna chahta hoon <EOS>,mai iheartradio par sunny 100 sunna chahta hu
+3,what is the worst time to commute to nyc,nyc ke liye sabse kharab time kya hai <EOS>,nyc ke liye sabse kharab time kya hai
+4,show all reminders for work,work ke liye sabhi reminders ko dikhao <EOS>,work ke liye sabhi reminders ko dikhao
+5,put 3 minutes on the timer  .,timer par 3 minutes set kare <EOS>,timer par 3 minutes set kare
+6,i need to hear lullabies,mujhe lullabies sunna hai <EOS>,mujhe lullabies sunna hai
+7,is it going to be windy tomorrow  ?,kya kal windy hone wala he  ? <EOS>,kya kal windy hone wala he  ?
+8,cancel the alarm on the timer,timer par alarm cancel kare <EOS>,timer par alarm cancel kare
+9,where is traffic the heaviest,sabse zyada bhaari traffic kahan par hai <EOS>,sabse zyada bhaari traffic kaha hai
+10,play in new york today,aaj new york me today ' s bajao <EOS>,aaj new york me play kare
+11,hva lane restriction times,hva lane ki restriction times karte hai <EOS>,hva lane ki restriction times
+12,play silverstein ' s latest album,silverstein ka latest album bajao <EOS>,silverstein ka latest album bajao
+13,on july 16th activate an alarm,july 16th ko alarm activate kare <EOS>,july 16th ko alarm activate kare
+14,remind me daily to not eat chocolate  .,mujhe daily chocolate nahi khareedne ke liye yaad dilaye <EOS>,mujhe daily chocolate nahi khareedne ke liye yaad dilaye
+15,is it raining outside  ?,kya bahar baarish ho rahi hai  ? <EOS>,kya bahar barish ho rahi hai  ?
+16,delete all my past reminders  .,mere sarey past reminders delete kare <EOS>,mere sarey past reminders delete kare
+17,save this artist please,please is artist ke artist ko save karo <EOS>,please is artist ko save karo
+18,lets send a video message to katie,katie ko ek video message bhejo <EOS>,katie ko ek video message bhejo
+19,please delete the reminder about our soccer match,please hamare soccer match ke reminder ko delete karden <EOS>,please hamare soccer match ke reminder ko delete karden
+20,reset my timer  .,mere timer ko reset kare <EOS>,mere timer ko reset kare
+21,what is the weather in brussels,brussels me mausam kaisa hai <EOS>,brussels me mausam kaisa hai
+22,what is the weather alert,mausam kaisa me hai <EOS>,mausam ki alert kya hai
+23,when is my alarm going off next,mera agla alarm kab band hoga <EOS>,agla mera alarm kab band hoga
+24,change timer,timer timer ko badlein <EOS>,timer badlo
+25,record stopwatch time,time it zyada time record karo <EOS>,stopwatch time record karo
+26,tell me what the weather will be like,muje bataiye ki mausam kaisa rahega <EOS>,muje bataiye ki mausam kaisa rahega
+27,change my weekday alarms to 4 pm,mere weekday alarms ko 4 pm tak badle <EOS>,mere weekday alarms ko 4 pm tak badle
+28,play the top 10 songs of 1990,1990 ke top 10 songs bajao <EOS>,1990 ke top 10 songs bajao
+29,how is the traffic between philadelphia and pittsburgh,philadelphia aur pittsburgh ke beech kaisa hai <EOS>,philadelphia aur pittsburgh ke beech ka traffic kaisa hai
+30,make a timer go for 10 minutes  .,10 minutes ke liye timer banaye <EOS>,10 minutes ke liye timer banaye
+31,are there any wrecks on 285 today,kya aaj 285 par koi wrecks hai <EOS>,kya aaj 285 par koi wrecks hai
+32,is it sunny today  ?,kya aaj dhoop hai  ? <EOS>,kya aj dhoop hai  ?
+33,how long will it be raining,kitne percent tak baarish horahi hai <EOS>,kitne samay tak baarish horahi hai
+34,whats the weather tomorrow,kal ka mousam kaisa hone wala hai <EOS>,kal ka mousam kaisa hai
+35,21 pilot concerts next week,agle hafte 21 pilot ke concerts hone wale hai <EOS>,agle hafte 21 pilot ke concerts
+36,please set a new alarm  .,please ek naya alarm set kare  . <EOS>,please ek naya alarm set kardo  .
+37,set the chronos,chronos set karen jo hai  . <EOS>,chronos set karen
+38,what is there to do in seattle this week,is week seattle mei kya karne ke liye hai <EOS>,is week seattle mei kya karne ke liye hai
+39,delete my meeting reminder today,aaj mere meeting ke reminder ko delete karo <EOS>,aaj mere meeting ke reminder ko delete karo
+40,"popular dj near dallas , ga","dallas , ga ke paas popular dj , naye text","dallas , ga ke paas popular dj"
+41,when will it rain this month,is mahine barish kab hogi <EOS>,is mahine baarish kab hogi
+42,will i see the sun today,kya mai aj suraj dekh sakta hoon <EOS>,kya mai aj suraj dekh sakta hoon
+43,set an alarm,alarm set kare <EOS>,alarm set kare
+44,back exercises timer paused  .,back exercises timer ko paused hour <EOS>,back exercises timer ko paused kare
+45,how ' s traffic near me,mere aas paas traffic kaisa hai <EOS>,mere aas paas traffic kaisa hai
+46,set timer for 5 minute intervals,5 minute ke interval ke liye timer set kare <EOS>,5 minute ke interval ke liye timer set kare
+47,cancel my alarm on saturday at 10,saturday subah 10 bajhe mera alarm cancel kardo <EOS>,saturday subah 10 bajhe mera alarm cancel kardo
+48,does africa receive traffic,kya africa traffic receive karta hai ya long muje dikh,kya africa traffic receive karta hai
+49,what is the weather like in miami  ?,miami me mausam kaisa hai  ? <EOS>,miami me mausam kaisa hai  ?
+50,message tom about collecting the car,tom ko message karo about collecting the car <EOS>,tom ko message karo about collecting the car
+51,silence now alarm  .,abhi se alarm ko silence kardo  . <EOS>,abhi alarm ko silence kare  .
+52,get the timer going again,timer ko phirse shuru karo <EOS>,timer ko phirse shuru karo
+53,is there traffic ahead on the gawanis,kya gawanis par traffic hai <EOS>,kya gawanis par traffic hai
+54,events next weekend,next weekend par next week events ho rahe he <EOS>,next weekend par events
+55,vap parties tonight,aaj raat vap saal ki parties free holiday parties <EOS>,aaj raat vap parties
+56,reminder 30 minutes prior to meeting,meeting se 30 minutes pehle reminder set kare <EOS>,meeting se 30 minutes pehle reminder set kare
+57,any fun things going on today,kya aj koi fun things chal rahe hai <EOS>,kya aj koi fun things chal rahe hai
+58,is it supposed to rain on saturday  ?,kya saturday ko baarish hone wali hai  ? <EOS>,kya saturday ko baarish hone wali hai  ?
+59,what temperature is it outside  ?,baahar ka temperature kitna hai  ? <EOS>,baahar ka temperature kitna hai  ?
+60,concerts at darien lake within the next 6 months,agle 6 mahine me darien lake par concerts <EOS>,agle 6 mahine me darien lake par concerts
+61,set timer for 5 minutes,5 minute ke liye timer set kare <EOS>,5 minute ke liye timer set kardo
+62,pause the timer  .,timer ko pause kare <EOS>,timer ko rok do  .
+63,will it rain on tuesday  ?,kya tuesday ko baarish hogi  ? <EOS>,kya tuesday ko baarish hogi  ?
+64,hannukah events in new york,new york me hannukah ke sports events ho rahe he,new york me hannukah events ho rahe he
+65,meetings for this week at work,is haftey ke liye work par meetings <EOS>,is haftey ke liye work par meetings
+66,what time does the hinder concert start,hinder concert kitne bajhe shuru hota hai <EOS>,hinder concert kitne bajhe shuru hota hai
+67,set alarm for 6 tomorrow,kal subha 6 baje ke liye alarm set karen <EOS>,kal subha 6 baje ke liye alarm set karen
+68,facebook information on the school book fair event,school book fair event par facebook information <EOS>,school book fair event par facebook information
+69,cancel my reminder to shop,mere shop karne ke reminder ko cancel kare <EOS>,mere shop karne ke reminder ko cancel kare
+70,any storms detected for this week,is haftey ke liye koi toofan detected hai <EOS>,is haftey ke liye koi toofan detected hai
+71,specify the weather in russia  ?,russia ka latest weather chahiye  ? <EOS>,russia ka mausam specific kare  ?
+72,cancel current timer  .,current timer ko cancel kare <EOS>,current timer ko cancel kare
+73,please tell me how the roads are,please mujhe bataye ke roads kaisa hai <EOS>,please mujhe bataye ke roads kaisa hai
+74,please set a 2 pm alarm,please 2 pm ka alarm set kare <EOS>,please 2 pm ka alarm set kare
+75,is there anything to do right now,kya abhi kuch karne ke liye hai <EOS>,kya abhi kuch karne ke liye hai
+76,add 40 mins to timer,timer me 40 minutes add karo <EOS>,40 mins ko timer me add kare
+77,please set a timer for 3 minutes,please 3 minutes ke liye timer set kare <EOS>,please 3 minutes ke liye timer ko set karen
+78,snooze for an hour,ek ghante ke liye snooze karen <EOS>,ek ghante ke liye snooze karo
+79,any events happening tonight,kya aaj raat koi event hone wale hai <EOS>,kya aaj raat koi event ho raha he
+80,will it rain today,kya aj barish hone wali hai <EOS>,kya aj barish hogi
+81,set thursday reminder to friday afternoon,thursday dopahar ke liye reminder set kare <EOS>,thursday ka reminder friday afternoon ke liye set kare
+82,skip the next three,agle teen tracks ko skip kare <EOS>,agley three ko skip kardo
+83,what time will i get to bwi,me bwi ko kitne bajhe hogi <EOS>,me bwi ko kitne bajhe tak pahuchunga
+84,christmas tree lightings in austin this weekend,is weekend austin mei christmas tree lightings hai <EOS>,is weekend austin mei christmas tree lightings hai
+85,space housewives and law and order,housewives aur law and order ke liye <EOS>,housewives aur law and order
+86,change alarm tone to buzz,alarm tone ko buzz me badal do <EOS>,alarm tone ko buzz me badal do
+87,kids activities at the zoo,christmas ke kids ke liye kids and kids on the,zoo mei kids ke liye activities
+88,resume timer,timer ko resume kare <EOS>,timer ko phir se shuru karo
+89,how long is the drive to work today,aj work ke liye meri drive kitni lambi hai <EOS>,aj work ke liye drive kitni lambi hai
+90,what is the distance between chicago and indiana,chicago aur indiana ke beech ka distance kitna hai <EOS>,chicago aur indiana ke beech ka distance kitna hai
+91,what is the current temperature in seattle  ?,seattle ka current temperature kya hai  ? <EOS>,seattle ka current temperature kya hai  ?
+92,start my timer,mere timer me shuru karo <EOS>,mera timer shuru karo
+93,will i need to bring a jacket  ?,kya mujhe jacket lane ki zarurat padegi  ? <EOS>,kya mujhe jacket lane ki zarurat padegi  ?
+94,beach front holiday parties this evening,is evening ko beach front par holiday parties <EOS>,is evening ko beach front par holiday parties
+95,find me songs by sean paul,mujhe sean paul ke songs dhundo <EOS>,mujhe sean paul ke songs dhundo
+96,show me reminders for next week,mujhe agley haftey ke reminders dikhao <EOS>,mujhe agley haftey ke reminders dikhao
+97,alarm for 9 tonight,aaj raat 9 baje ke liye alarm set kare <EOS>,aaj raat 9 baje ke liye alarm
+98,is the traffic bad right now on 30,kya is waqt traffic jam abhi hai <EOS>,kya 30 par traffic abhi kharab hai
+99,remind me to buy cards,mujhe cards khareedne ke liye yaad dilaye <EOS>,mujhe cards khareedne ke liye yaad dilaye
