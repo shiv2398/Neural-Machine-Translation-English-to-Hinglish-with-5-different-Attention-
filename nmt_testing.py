@@ -229,6 +229,7 @@ decoder.load_state_dict(torch.load(decoder_path))
 
 while True:
   input_sentence=input('Enter Sentence in English : ')
+  
   if input_sentence=='Quit':
     print('Bye Bye...')
     break
