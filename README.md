@@ -9,7 +9,7 @@
 1. Simply download the following files:
    - `nmt_testing` files
    - Saved model
-   - `lang_instance`
+   - `lang_instance(saved_models)`
 2. Provide the file paths within the provided function in the notebook
 3. Run all the cells and voilà! 🚗
 
