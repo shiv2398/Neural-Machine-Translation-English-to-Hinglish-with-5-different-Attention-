@@ -228,7 +228,8 @@ encoder.load_state_dict(torch.load(encoder_path))
 decoder.load_state_dict(torch.load(decoder_path))
 
 while True:
-  input_sentence=input('Enter Sentence in English : ')
+  print("Enter (Quit) to exit or else : - ") 
+  input_sentence=input('Enter Sentence in English to Translate : ')
   
   if input_sentence=='Quit':
     print('Bye Bye...')
