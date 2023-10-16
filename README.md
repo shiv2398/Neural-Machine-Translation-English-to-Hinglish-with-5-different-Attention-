@@ -1,5 +1,3 @@
-# Neural-Machine-Translation-English-to-Hinglish-with-5-different-Attention-
-
 # Neural Machine Translation (NMT) - English to Hinglish
 
 🌟 **Features** 🌟
